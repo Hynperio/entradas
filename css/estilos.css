@@ -12,4 +12,19 @@
 
 .position-relative {
     position: relative;
-  }
+}
+
+.busqueda{
+    font-size: x-large;
+    font-family: 'Signika Negative', sans-serif;
+    background: none;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+.busqueda :focus{
+    outline: none;
+    border: none;
+    outline-width: 0;
+}
