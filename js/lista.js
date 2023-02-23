@@ -2,26 +2,26 @@ const lista_invitados_hombres = [
     {
         nombre: "Amado Jose Queliz Vásquez",
         invitados: [
-            "Cecilia Ayabel Ramos Rodríguez",
-            "Anselmo Queliz Durán",
+            "Cecilia Ayabel Ramos Rodriguez",
+            "Anselmo Queliz Duran",
             "Isabella Abud Ramos",
             "Lazarena Valentina Vázquez Soriano",
-            "Margarita Jiménez Diaz",
-            "Angela Yudelka Vázquez Soriano"
+            "Margarita Jimenez Diaz",
+            "Angela Yudelka Vazquez Soriano"
         ]
     },
     {
         nombre: "Andy Jose Domínguez García",
         invitados: [
             "Altagracia Batista",
-            "Ana Silvia Domínguez",
-            "Claudette García",
+            "Ana Silvia Dominguez",
+            "Claudette Garcia",
             "Daniela Caba Pichardo",
-            "Juan José Domínguez",
-            "Manuel García",
+            "Juan Jose Dominguez",
+            "Manuel Garcia",
             "Mia Suriel",
-            "Silvana García",
-            "Silvestre Domínguez"
+            "Silvana Garcia",
+            "Silvestre Dominguez"
         ]
     },
     {
@@ -37,12 +37,12 @@ const lista_invitados_hombres = [
     {
         nombre: "Eduardo Jose Almonte Anazagatis",
         invitados: [
-            "Angela M Anazagatis Martes",
+            "Angela M. Anazagatis Martes",
             "Arleny Villar",
             "Fernando J Almonte Anazagatis",
             "José Almonte",
-            "María Elandy Duran Anazagatis",
-            "María Fernanda Almonte Anazagatis",
+            "Maria Elandy Duran Anazagatis",
+            "Maria Fernanda Almonte Anazagatis",
             "Angel Sánchez"
         ]
     },
@@ -61,8 +61,8 @@ const lista_invitados_hombres = [
     {
         nombre: "Franyany Rodríguez Cabrera",
         invitados: [
-            "Crisaly María Cabrera tejada",
-            "Francisco Antonio Rodríguez Cabrera",
+            "Crisaly Maria Cabrera Tejada",
+            "Francisco Antonio Rodriguez Cabrera",
             "Yordy Victoriano"
         ]
     },
@@ -71,7 +71,7 @@ const lista_invitados_hombres = [
         invitados: [
             "Belkis Herrera",
             "Ivan Herrera",
-            "Mary Hernández",
+            "Mary Hernandez",
             "Milagros Herrera",
             "Monica Herrera",
             "Olimpia Quezada",
@@ -91,9 +91,9 @@ const lista_invitados_hombres = [
     {
         nombre: "Jose Antonio Lamarche Pimentel",
         invitados: [
-            "Ana Belén Valera (Invitación regalada de Aysha)",
+            "Ana Belen Valera",
             "Ana Lucas",
-            "Jesús Alberto Lamarche",
+            "Jesus Alberto Lamarche",
             "Kamille Santos",
             "Karelyn Santos",
             "Karla Rosado Soriano",
@@ -105,12 +105,12 @@ const lista_invitados_hombres = [
     {
         nombre: "Juanes Núñez Garcia", 
         invitados: [
-            "Alexandra García Queliz", 
-            "Dahiana Núñez García", 
-            "Jhonny rosa Victoriano", 
-            "Luis Jesús Peña Rivas", 
-            "Niño Núñez Aquino", 
-            "Saul Gómez Abreu"
+            "Alexandra Garcia Queliz", 
+            "Dahiana Nuñez Garcia", 
+            "Jhonny Rosa Victoriano", 
+            "Luis Jesus Peña Rivas", 
+            "Niño Nuñez Aquino", 
+            "Saul Gomez Abreu"
         ]
     },
     {
@@ -135,16 +135,22 @@ const lista_invitados_hombres = [
             "Leandro Bencosme", 
             "Marelin Quezada", 
             "Robin Palmenio", 
-            "Ronnici Sánchez", 
+            "Ronnici Sanchez", 
             "Angel Peña", 
-            "Robert Sánchez", 
+            "Robert Sanchez", 
             "Franseli Tavarez "
         ]
     },
 
     {
         nombre: "Wellinzon Rafael Domínguez Pimentel",
-        invitados: ["Danny Wellinzon Domínguez", "Jael Pimentel", "Luis Manuel Pimentel", "Wilfri Diaz", "Bryan Pimentel", "Yiseli Corsino"]
+        invitados: [
+          "Danny Wellinzon Dominguez", 
+          "Jael Pimentel", 
+          "Luis Manuel Pimentel", 
+          "Wilfri Diaz", 
+          "Bryan Pimentel", 
+          "Yiseli Corsino"]
     },
 
     {
@@ -153,8 +159,8 @@ const lista_invitados_hombres = [
           "Elba Rosario",
           "Josein Romero",
           "Justin Quezada",
-          "María Altagracia Espinosa Velez",
-          "Susan de Jesús Romero Rosario",
+          "Maria Altagracia Espinosa Velez",
+          "Susan de Jesus Romero Rosario",
           "Welinton Victoriano"
         ]
       },
@@ -164,8 +170,8 @@ const lista_invitados_hombres = [
           "Alina Rosado Gil",
           "Camila Duran Rosado",
           "Santa Rosado",
-          "Roberto Andrés de la Rosa Suriel",
-          "Valeria Díaz"
+          "Roberto Andres de la Rosa Suriel",
+          "Valeria Diaz"
         ]
       },
       {
@@ -176,7 +182,7 @@ const lista_invitados_hombres = [
           "Gregorio Abreu",
           "Justino Victoriano",
           "Mirian Abreu Bautista",
-          "Ryan Eliezer Hernández Abreu"
+          "Ryan Eliezer Hernandez Abreu"
         ]
       },
       {
@@ -187,7 +193,7 @@ const lista_invitados_hombres = [
           "Eduvigis",
           "Gerlin Victoriano Delgado",
           "German Victoriano Garcia",
-          "Jacqueline Delgado Jiménez",
+          "Jacqueline Delgado Jimenez",
           "Jonas Alberto Salcedo Abreu",
           "Juan Jose Bautista Batista"
         ]
@@ -195,10 +201,10 @@ const lista_invitados_hombres = [
       {
         nombre: "Elyaris Infante Polanco",
         invitados: [
-          "Ana María Polanco",
+          "Ana Maria Polanco",
           "Dioniris Infante",
           "Francisco Infante",
-          "María Ledesma",
+          "Maria Ledesma",
           "Wisneily Infante",
           "Yadiris Infante",
           "Yarelvis Infante Polanco"
@@ -207,13 +213,13 @@ const lista_invitados_hombres = [
       {
         nombre: "Harolin Mercedes Báez Ceballo",
         invitados: [
-          "Carolina Mercedes Ceballo Gutiérrez",
+          "Carolina Mercedes Ceballo Gutierrez",
           "Karolain Mercedes Báez Ceballo",
           "Lia Mariette Castillo Ceballo",
           "Midia Altagracia Gutiérrez Rivas",
-          "Orlando Báez Ceballo",
-          "Orlando Báez Monegro",
-          "Renata Báez Ramos"
+          "Orlando Baez Ceballo",
+          "Orlando Baez Monegro",
+          "Renata Baez Ramos"
         ]
       },
       {
@@ -228,14 +234,14 @@ const lista_invitados_hombres = [
           "Jencel Taveras",
           "Lorena Liranzo",
           "Luz Gilmaris Lorenzo",
-          "María Maldonado"
+          "Maria Maldonado"
         ]
       },
       {
         nombre: "Mara Rocío Arias",
         invitados: [
           "Angel Jhonael Marte",
-          "Génesis Victoriano",
+          "Genesis Victoriano",
           "Maribel Rodríguez",
           "Nathaly Jiménez",
           "Rafael Olmos"
@@ -246,11 +252,11 @@ const lista_invitados_hombres = [
         nombre: "Shairy Cristal Báez Sepúlveda",    
         invitados: [
             "Crislaine Reyes",      
-            "Darwin Báez",      
-            "Jersin Sepúlveda",      
+            "Darwin Baez",      
+            "Jersin Sepulveda",      
             "Leslie Quiroz",      
             "Miguel Angel Báez",      
-            "Samil Martínez",      
+            "Samil Martinez",      
             "Steven Garcia",      
             "Yamilette Collado"
         ]
@@ -261,9 +267,9 @@ const lista_invitados_hombres = [
         invitados: [
         "Abdiel Alfonso Victoriano Bueno",
         "Ana Berquis Lucas García",
-        "Andrés de Jesús Victoriano Lucas",
+        "Andres de Jesus Victoriano Lucas",
         "Clemente Alfonso Victoriano Familia",
-        "Diego Moisés Gil Linares",
+        "Diego Moises Gil Linares",
         "Grenny Mangiori Cruz Fernandez",
         "Teresa del Carmen Victoriano Lucas"
         ]
@@ -276,12 +282,13 @@ let colaboradores = [
     "Ichigo Multimedia (Dani)", 
     "Enmanuel Jose Romero Rosario", 
     "Isabela Quezada", 
-    "Saul Cruz"];
+    "Saul Cruz"
+  ];
 
 let alegria = [
     "Dollyn",
     "Oliver",
-    "José Fernando",
+    "Jose Fernando",
     "Jonas",
     "Amelia",
     "Skarlen",
