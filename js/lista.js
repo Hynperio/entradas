@@ -150,7 +150,8 @@ const lista_invitados_hombres = [
           "Luis Manuel Pimentel", 
           "Wilfri Diaz", 
           "Bryan Pimentel", 
-          "Yiseli Corsino"]
+          "Yiseli Corsino"
+        ]
     },
 
     {
@@ -282,7 +283,8 @@ let colaboradores = [
     "Ichigo Multimedia (Dani)", 
     "Enmanuel Jose Romero Rosario", 
     "Isabela Quezada", 
-    "Saul Cruz"
+    "Saul Cruz",
+    "Eduardo Grullon"
   ];
 
 let alegria = [
@@ -297,7 +299,10 @@ let alegria = [
     "Peter",
     "Angelica",
     "Lucia",
-    "Suleiky"
+    "Suleiky",
+    "Anderson Abreu",
+    "Daniela Abreu",
+    "Danelson Miguel Rodriguez"
 ];
 
 
